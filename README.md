@@ -16,7 +16,7 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 
 - 🎓 **충북대학교 소프트웨어학부** 재학중 | **Software Major at CBNU**
 - 🌱 현재 **React**와 **TypeScript**를 깊이 있게 학습하고 있습니다 | Currently deep diving into **React** and **TypeScript**
-- 💡 사용자 경험을 중시하는 웹 애플리케이션 개발에 관심이 많습니다 | Passionate about developing user-centered web applications
+- 💡 사용자 경험을 중시하는 웹/앱 애플리케이션 개발에 관심이 많습니다 | Passionate about developing user-centered web/app applications
 - 🎯 목표: **JavaScript 풀스택 개발자** | Goal: **JavaScript Full-Stack Developer**
 
 ## 🛠️ Tech Stack | 기술 스택
