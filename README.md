@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  [![TAEJINCHOI Portfolio]([https://img.shields.io/badge/TAEJINCHOI--portfolio--Web-100000?style=for-the-badge&logo=vercel&logoColor=white)](https://taetae-01.github.io/TAEJINCHOI-portfolio/)
+  [![TAEJINCHOI Portfolio]([https://img.shields.io/badge/RNPractice--TAEJINCHOI__portfolio__Web-100000?style=for-the-badge&logo=react&logoColor=white
+)](https://taetae-01.github.io/TAEJINCHOI-portfolio/)
 
 </div>
 
