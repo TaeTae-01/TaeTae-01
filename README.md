@@ -1,41 +1,82 @@
 # 안녕하세요! 👋 Hi there! I'm TaeJin Choi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=JavaScript+Full-Stack+Developer;Software+Student+at+CBNU;Always+learning+new+things" alt="Typing SVG" />
+  [![TAEJINCHOI Portfolio](https://img.shields.io/badge/TAEJINCHOI--portfolio--Web-100000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TaeTae-01/TAEJINCHOI-portfolio)
 </div>
 
 ## 🙋‍♂️ About Me | 자기소개
 
 🇰🇷 **Korean**  
-자바스크립트 풀스택 개발자를 희망하는 학부생입니다.  
+자바스크립트 풀스택 개발자를 희망하는 학부생입니다.
 충북대학교 소프트웨어학부 3학년에 재학중이며, 2027년 2월 졸업 예정입니다.
 
 🇺🇸 **English**  
 I'm an undergraduate student aspiring to become a JavaScript full-stack developer.  
 Currently a 3rd-year Software major at Chungbuk National University, expected to graduate in February 2027.
 
-- 🎓 **충북대학교 소프트웨어학부** 재학중 | **Software Major at CBNU**
-- 🌱 현재 **React**와 **TypeScript**를 깊이 있게 학습하고 있습니다 | Currently deep diving into **React** and **TypeScript**
-- 💡 사용자 경험을 중시하는 웹/앱 애플리케이션 개발에 관심이 많습니다 | Passionate about developing user-centered web/app applications
-- 🎯 목표: **JavaScript 풀스택 개발자** | Goal: **JavaScript Full-Stack Developer**
+## 🛠️ Tech Stack | 기술 스택
+
+### 🧠 숙련도 기준
+
+| 수준  | 설명 |
+|-------|------|
+| 🟢 고급 | 실제 프로젝트에서 능숙하게 활용하고 있으며, 복잡한 문제 해결과 커스터마이징이 가능한 수준 |
+| 🟡 중급 | 실무에서 충분히 사용할 수 있고, 문서나 레퍼런스를 참고해 응용 가능한 수준 |
+| 🔵 초급 | 기본 개념을 이해하고, 간단한 활용은 가능한 수준 |
+
+### 🧠 Proficiency Levels
+
+| Level   | Description |
+|---------|-------------|
+| 🟢 Advanced | Able to use fluently in real projects; can solve complex problems and customize features independently. |
+| 🟡 Intermediate | Comfortable using in practical situations; able to apply with some documentation or reference. |
+| 🔵 Beginner | Understands the basics; can perform simple tasks with guidance. |
+
+
 
 ## 🛠️ Tech Stack | 기술 스택
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-🟢%20고급-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-🟢%20고급-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-🟢%20고급-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-🟡%20중급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Tools & Database
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### ⚙️ Libraries & Frameworks
+![React](https://img.shields.io/badge/React-🟢%20고급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-🟡%20중급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-🟡%20중급-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵%20초급-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-🔵%20초급-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-🔵%20초급-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-🔵%20초급-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-🔵%20초급-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-🔵%20초급-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🛢️ Database
+![MySQL](https://img.shields.io/badge/MySQL-🟡%20중급-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-🟡%20중급-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-🟡%20중급-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧰 Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-🟡%20중급-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-🟡%20중급-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-🟡%20중급-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-🔵%20초급-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-🔵%20초급-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-🟢%20고급-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-🟡%20중급-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-🔵%20초급-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📚 Projects | 프로젝트
+
+### 🧪 토이 프로젝트 | Toy Projects
+
+<div align="center">
+  [![RNPractice](https://img.shields.io/badge/RNPractice--React_Native_Toy_Project-100000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/TaeTae-01/RNParctice)
+</div>
+React Native를 실습하며 학습한 내용을 정리한 토이 프로젝트입니다. 
+This repository contains my React Native practice projects while learning mobile app development.
 
 ### 🏫 학교 프로젝트 | School Projects
 <div align="center">
