@@ -1,7 +1,9 @@
 # 안녕하세요! 👋 Hi there! I'm TaeJin Choi
 
 <div align="center">
+  
   [![TAEJINCHOI Portfolio](https://img.shields.io/badge/TAEJINCHOI--portfolio--Web-100000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TaeTae-01/TAEJINCHOI-portfolio)
+
 </div>
 
 ## 🙋‍♂️ About Me | 자기소개
@@ -73,7 +75,9 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ### 🧪 토이 프로젝트 | Toy Projects
 
 <div align="center">
+
   [![RNPractice](https://img.shields.io/badge/RNPractice--React_Native_Toy_Project-100000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/TaeTae-01/RNParctice)
+
 </div>
 React Native를 실습하며 학습한 내용을 정리한 토이 프로젝트입니다. 
 This repository contains my React Native practice projects while learning mobile app development.
