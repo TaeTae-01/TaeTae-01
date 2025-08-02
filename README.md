@@ -45,28 +45,28 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ![TypeScript](https://img.shields.io/badge/TypeScript-🟡%20중급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
-![React](https://img.shields.io/badge/React-🟢%20고급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-🟡%20중급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-🟡%20중급-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵%20초급-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-🔵%20초급-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-🔵%20초급-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-🔵%20초급-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-🔵%20초급-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-🔵%20초급-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/React-🟢%20고급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br/>
+![React Native](https://img.shields.io/badge/React_Native-🟡%20중급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br/>
+![Expo](https://img.shields.io/badge/Expo-🟡%20중급-000020?style=for-the-badge&logo=expo&logoColor=white) <br/>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵%20초급-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <br/>
+![Node.js](https://img.shields.io/badge/Node.js-🔵%20초급-339933?style=for-the-badge&logo=node.js&logoColor=white) <br/>
+![Redux](https://img.shields.io/badge/Redux-🔵%20초급-764ABC?style=for-the-badge&logo=redux&logoColor=white) <br/>
+![Zustand](https://img.shields.io/badge/Zustand-🔵%20초급-000000?style=for-the-badge&logo=zustand&logoColor=white) <br/>
+![Axios](https://img.shields.io/badge/Axios-🔵%20초급-5A29E4?style=for-the-badge&logo=axios&logoColor=white) <br/>
+![Jest](https://img.shields.io/badge/Jest-🔵%20초급-C21325?style=for-the-badge&logo=jest&logoColor=white) <br/>
 
 ### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-🟡%20중급-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-🟡%20중급-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-🟡%20중급-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br/>
+![Firebase](https://img.shields.io/badge/Firebase-🟡%20중급-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) <br/>
 ![Supabase](https://img.shields.io/badge/Supabase-🟡%20중급-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧰 Tools & Collaboration
-![Git](https://img.shields.io/badge/Git-🟡%20중급-F05032?style=for-the-badge&logo=git&logoColor=white) <br/>
-![GitHub](https://img.shields.io/badge/GitHub-🟡%20중급-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-🟡%20중급-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-🟡%20중급-181717?style=for-the-badge&logo=github&logoColor=white) <br/>
 ![Figma](https://img.shields.io/badge/Figma-🟡%20중급-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-🔵%20초급-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-🔵%20초급-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white) <br/>
 ![Slack](https://img.shields.io/badge/Slack-🔵%20초급-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-🟢%20고급-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-🟢%20고급-000000?style=for-the-badge&logo=notion&logoColor=white) <br/>
 ![Postman](https://img.shields.io/badge/Postman-🟡%20중급-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-🔵%20초급-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
