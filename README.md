@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  [![TAEJINCHOI Portfolio]([https://img.shields.io/badge/RNPractice--TAEJINCHOI__portfolio__Web-100000?style=for-the-badge&logo=react&logoColor=white
-)](https://taetae-01.github.io/TAEJINCHOI-portfolio/)
+[![TAEJINCHOI Portfolio](https://img.shields.io/badge/TAEJINCHOI__portfolio__Web-100000?style=for-the-badge&logo=react&logoColor=white)](https://taetae-01.github.io/TAEJINCHOI-portfolio/)
 
 </div>
 
@@ -41,8 +40,8 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 
 ### 💻 Languages
 ![HTML](https://img.shields.io/badge/HTML5-🟢%20고급-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-🟢%20고급-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-🟢%20고급-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-🟢%20고급-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-🟢%20고급-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-🟡%20중급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
@@ -62,7 +61,7 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ![Supabase](https://img.shields.io/badge/Supabase-🟡%20중급-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧰 Tools & Collaboration
-![Git](https://img.shields.io/badge/Git-🟡%20중급-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-🟡%20중급-F05032?style=for-the-badge&logo=git&logoColor=white) <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-🟡%20중급-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-🟡%20중급-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-🔵%20초급-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
