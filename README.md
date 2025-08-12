@@ -72,17 +72,6 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 
 ## 📚 Projects | 프로젝트
 
-### 🧪 토이 프로젝트 | Toy Projects
-
-<div align="center">
-
-  [![RNPractice](https://img.shields.io/badge/RNPractice--React_Native_Toy_Project-100000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/TaeTae-01/RNParctice)
-
-</div>
-React Native를 실습하며 학습한 내용을 정리한 토이 프로젝트입니다.
-
-This repository contains my React Native practice projects while learning mobile app development.
-
 ### 🏫 학교 프로젝트 | School Projects
 <div align="center">
   
@@ -102,9 +91,7 @@ Visit my school account for academic projects and collaborations!
 
 </div>
 
-개인 공부 기록과 프로젝트 일지를 확인하실 수 있습니다.  
-
-Check out my study notes and project logs on my blog!
+개인 공부 기록을 확인하실 수 있습니다.  
 
 ## 📊 GitHub Stats | 깃허브 통계
 
