@@ -96,12 +96,12 @@ Visit my school account for academic projects and collaborations!
 ## 📊 GitHub Stats | 깃허브 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeTae-01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeTae-01&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeTae-01&show_icons=true&theme=tokyonight&cache_seconds=3600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeTae-01&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeTae-01&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TaeTae-01&theme=tokyonight" />
 </div>
 
 <div align="center">
