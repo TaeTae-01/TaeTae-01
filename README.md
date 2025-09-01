@@ -43,6 +43,7 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ![CSS](https://img.shields.io/badge/CSS3-🟢%20고급-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-🟢%20고급-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-🔵%20초급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-🔵%20초급-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-🟢%20고급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br/>
