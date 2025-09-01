@@ -42,7 +42,7 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ![HTML](https://img.shields.io/badge/HTML5-🟢%20고급-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-🟢%20고급-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-🟢%20고급-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-🟡%20중급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-🔵%20초급-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-🟢%20고급-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br/>
@@ -50,10 +50,6 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ![Expo](https://img.shields.io/badge/Expo-🟡%20중급-000020?style=for-the-badge&logo=expo&logoColor=white) <br/>
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵%20초급-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-🔵%20초급-339933?style=for-the-badge&logo=node.js&logoColor=white) <br/>
-![Redux](https://img.shields.io/badge/Redux-🔵%20초급-764ABC?style=for-the-badge&logo=redux&logoColor=white) <br/>
-![Zustand](https://img.shields.io/badge/Zustand-🔵%20초급-000000?style=for-the-badge&logo=zustand&logoColor=white) <br/>
-![Axios](https://img.shields.io/badge/Axios-🔵%20초급-5A29E4?style=for-the-badge&logo=axios&logoColor=white) <br/>
-![Jest](https://img.shields.io/badge/Jest-🔵%20초급-C21325?style=for-the-badge&logo=jest&logoColor=white) <br/>
 
 ### 🛢️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-🟡%20중급-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br/>
