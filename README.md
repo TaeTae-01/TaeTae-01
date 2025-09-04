@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 I'm an undergraduate student aspiring to become a JavaScript full-stack developer.  
-Currently a 3rd-year Software major at **Chungbuk National University**, expected to graduate in February 2027.
+Currently a 3rd-year Software major at Chungbuk National University, expected to graduate in February 2027.
 
 ## 🛠️ Tech Stack
 
@@ -21,12 +21,12 @@ Currently a 3rd-year Software major at **Chungbuk National University**, expecte
 ### 💻 Languages
 ![HTML](https://img.shields.io/badge/HTML5-🟢_Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-🟢_Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-🟢_Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-🟡_Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-🔵_Beginner-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-🔵_Beginner-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
-![React](https://img.shields.io/badge/React-🟢_Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-🟡_Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-🟡_Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-🟡_Intermediate-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵_Beginner-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
