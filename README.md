@@ -3,7 +3,13 @@
 ## 🙋‍♂️ About Me
 
 I'm an undergraduate student aspiring to become a JavaScript full-stack developer.  
-Currently a 3rd-year Software major at Chungbuk National University, expected to graduate in February 2027.
+Currently, I am a 3rd-year Software major at Chungbuk National University, expected to graduate in February 2027.
+
+These days, I mainly use my **school GitHub account**.  
+If you want to check out my academic projects and achievements, please visit my school GitHub:  
+
+[![School GitHub](https://img.shields.io/badge/School_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
+
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +31,7 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
   
 </div>
 
-## 📊 GitHub Stats
+## 📊 Personal GitHub Stats (TaeTae-01)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TaeTae-01&show_icons=true&theme=tokyonight&cache_seconds=3600" height="180" />
@@ -44,7 +50,6 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ## 🌐 Connect with Me
 
 <div align="center">
-  <p>Check my academic projects and collaborations at my school account!</p>
   
   [![School GitHub](https://img.shields.io/badge/School_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
   [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
