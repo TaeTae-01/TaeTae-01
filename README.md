@@ -44,10 +44,12 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 ## 🌐 Connect with Me
 
 <div align="center">
-  <p>**Check my academic projects and collaborations at my school account!**</p>
+  <p>Check my academic projects and collaborations at my school account!</p>
+  
   [![School GitHub](https://img.shields.io/badge/School_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
   [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
   [![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
+  
 </div>
 
 ---
