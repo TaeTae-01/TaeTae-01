@@ -1,11 +1,5 @@
 # Hi there! I'm TaeJin Choi 👋
 
-<div align="center">
-  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://taetae-01.github.io/TAEJINCHOI-portfolio/)
-
-</div>
-
 ## 🙋‍♂️ About Me
 
 I'm an undergraduate student aspiring to become a JavaScript full-stack developer.  
@@ -13,35 +7,15 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
 
 ## 🛠️ Tech Stack
 
-### Proficiency Levels
-- 🟢 **Advanced**: Fluent in real projects, can solve complex problems independently
-- 🟡 **Intermediate**: Comfortable in practical situations with documentation
-- 🔵 **Beginner**: Understands basics, can perform simple tasks
-
 ### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML5-🟢_Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-🟢_Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-🟡_Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-🔵_Beginner-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-🔵_Beginner-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Libraries & Frameworks
-![React](https://img.shields.io/badge/React-🟡_Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-🟡_Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-🟡_Intermediate-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🔵_Beginner-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-🔵_Beginner-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-🟡_Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-🟡_Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-🟡_Intermediate-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🧰 Tools & Collaboration
-![Git](https://img.shields.io/badge/Git-🟡_Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-🟡_Intermediate-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-🟡_Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-🟢_Advanced-000000?style=for-the-badge&logo=notion&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🏆 Problem Solving
 
@@ -66,24 +40,14 @@ Currently a 3rd-year Software major at Chungbuk National University, expected to
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaeTae-01&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </div>
 
-## 📚 Projects
-
-<div align="center">
-  
-[![School Projects](https://img.shields.io/badge/🎓_School_Projects_@taejinchoi--cbnu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
-
-**Check my academic projects and collaborations at my school account!**
-
-</div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  
-[![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
-[![School GitHub](https://img.shields.io/badge/School_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
-
+  <p>**Check my academic projects and collaborations at my school account!**</p>
+  [![School GitHub](https://img.shields.io/badge/School_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejinchoi-cbnu)
+  [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
+  [![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
 </div>
 
 ---
