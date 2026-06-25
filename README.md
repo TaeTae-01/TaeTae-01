@@ -1,6 +1,6 @@
 # Hi there! I'm TaeJin Choi 👋
 
 ## 🙋‍♂️ About Me
-Most of my recent projects are on my school GitHub account.
-
-👉 https://github.com/taejinchoi-cbnu
+Nowadays I usually use my school GitHub account.
+You can find my recent work here:
+- https://github.com/taejinchoi-cbnu
